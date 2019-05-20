@@ -1,0 +1,13 @@
+.sidebarcard {
+    border: rgb(133, 37, 37) 3px solid;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 10px 2px;
+    background: white;
+}
+.sidebarcard button {
+    float: right;
+    margin: 0 10px;
+    background: black;
+    cursor: pointer;
+}

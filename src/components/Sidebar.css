@@ -1,0 +1,31 @@
+.sidebar-content {
+    color: black;
+    height: 100%;
+    padding: 20px;
+}
+
+.sidebar-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.teamsPlaying {
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.sidebarcard li, p {
+    line-height: 2.0rem;
+    font-size: 1.1rem;
+}
+
+.sidebarcard button {
+    background: white;
+    border: 1px solid black;
+    outline: none;
+}
+.sidebarcard button i {
+    color: blue;
+}

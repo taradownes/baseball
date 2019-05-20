@@ -1,0 +1,24 @@
+.main-title {
+    height: 160px;
+    padding: 10px;
+}
+.main-title img{
+    height: 100%;
+    width: auto;
+}
+
+.players {
+    height: 400px;
+    overflow-y: scroll;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;
+    padding: 20px;
+    border: 8px solid rgb(4, 36, 66);
+    margin: 15px 45px;
+    background: linear-gradient(314deg, rgba(5,0,36,1) 0%, rgba(0,75,166,1) 100%); /* w3c */
+    background-size: cover;
+}
+
+.main {
+    width: 100%;
+}
